@@ -1,1 +1,3 @@
-# pythonic_way
+## pythonic_way
+
+### Python practice repo 
